@@ -1,7 +1,4 @@
 print("my name is iswar")
-
-
-
 ##variable
 ##variable is a name given to a memory location in a program
 name="iswar"
