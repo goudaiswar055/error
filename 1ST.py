@@ -8,6 +8,7 @@ age2= age
 print(age2)
 
 ##data type
+# data type is a type of value that a variable can hold.
 
 print(type(name))
 print(type(age))
@@ -16,11 +17,12 @@ print(type(price))
 ##int
 ##str
 ##float
-##bollean
+##boolean
 ##none
 
 
 ##keyword:keyword are reserved words in python.
+##keywords are used to define the syntax and structure of the python language.
 
 
 ##print sum of two number.
