@@ -23,8 +23,6 @@
 # print(len(final_string))
 
 
-
-
 # : indexing is a process of accessing individual characters of a string using their index values.
 # str="iswar gouda"
 # print(str[0])
