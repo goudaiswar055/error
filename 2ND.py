@@ -106,9 +106,9 @@
       
     ##wap to check if a number is a  multiple of 8 or not.
 
-x=int(input("enter a number:"))
-if(x%8==0):
-    print("multiple of 8")
-else:
-    print("not a multiple of 8")
+# x=int(input("enter a number:"))
+# if(x%8==0):
+#     print("multiple of 8")
+# else:
+#     print("not a multiple of 8")
     
