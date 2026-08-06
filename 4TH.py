@@ -49,13 +49,16 @@
 #pop(): removes and returns an arbitrary element from the set.
 #clear(): removes all elements from the set.
 #example:add() method:
-collection=set()
-collection.add(1)
-collection.add(2)
-collection.add(3)
-collection.remove(1)
-collection.clear()
+# collection=set()
+# collection.add(1)
+# collection.add(2)
+# collection.add(3)
+# collection.remove(1)
+# collection.clear()
 
-print(collection.pop(2))
+# print(collection)
 
+
+# set.union()#returns a new set with all elements from both sets.
+# set.intersection()#returns a new set with only the elements that are common to both sets
 
