@@ -84,11 +84,11 @@
 #         print("you are senior citizen voter")
 
 ##wap to check if a number entered by The user is odd or even.
-# num=int(input("enter a number"))
-# if(num%2==0):
-#     print("even number")
-# else:
-#     print("odd number")
+num=int(input("enter a number"))
+if(num%2==0):
+    print("even number")
+else:
+    print("odd number")
 
 ##wap to find the greatest of three numbers entered by the user.
 
@@ -109,4 +109,5 @@
 #     print("multiple of 8")
 # else:
 #     print("not a multiple of 8")
-    
+
+
